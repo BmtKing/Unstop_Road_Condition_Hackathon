@@ -20,13 +20,3 @@ The solution is divided into two main parts:
 
 ---
 
-## 🚀 How to Run
-
-Follow these steps to set up and run the project.
-
-### 1. Setup
-
-**Clone the repository:**
-```bash
-git clone [YOUR_REPOSITORY_LINK]
-cd [YOUR_PROJECT_FOLDER]
